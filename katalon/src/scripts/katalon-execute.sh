@@ -69,4 +69,4 @@ ls $report_dir
 
 cd $current_dir
 
-exit $ret_code
+# exit $ret_code
